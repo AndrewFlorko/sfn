@@ -1,0 +1,6 @@
+@Sber.Fitness_HostAddress = http://localhost:5154
+
+GET {{Sber.Fitness_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
